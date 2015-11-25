@@ -25,6 +25,7 @@
     <description lang="it">Con questo script puoi gestire le tue cdART. Potrai scaricare le cdART dal sito fanart.tv, fare un backup delle tue cdART, visualizzare ed anche cancellare le cdART memorizzate in locale</description>
     <description lang="pt">Este script permite que você gerencie seus cdARTs. Você poderá baixar cdARTs do site fanart.tv, efetuar backup, Visualizar e até apagar seus cdARTs armazenados localmente.</description>
     <description lang="es">Con este script serás capaz de administrar tus cdARTs. Puedes descargar cdARTs desde fanart.tv, Respaldar tus cdARTs, Ver e incluso Borrar tus cdARTs locales.</description>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
     <website></website>
     <source>https://github.com/Giftie/script.cdartmanager</source>
     <forum>http://forum.xbmc.org/showthread.php?tid=77031</forum>
